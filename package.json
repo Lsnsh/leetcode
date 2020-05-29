@@ -1,0 +1,23 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "我的 leetcode 题解",
+  "main": "index.js",
+  "scripts": {
+    "build:readme": "node build/bin/build-readme.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lsnsh/leetcode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lsnsh/leetcode/issues"
+  },
+  "homepage": "https://github.com/Lsnsh/leetcode#readme",
+  "devDependencies": {
+    "json-templater": "^1.2.0"
+  }
+}
