@@ -30,7 +30,7 @@ DirNames.forEach((dirName) => {
 
   itemList = itemNames.map((itemName) => {
     let itemNameCN = Dirs[dirName][itemName];
-    return `- [${itemNameCN}](${MAIN_DIR}/${dirName}/${itemName}/README.md)`;
+    return `- [${itemNameCN}](${MAIN_DIR}/${dirName}/${itemName})`;
   });
 
   dirTemplate.push(
