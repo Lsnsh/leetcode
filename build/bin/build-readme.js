@@ -14,11 +14,15 @@ const DIR_TEMPLATE = `
 const MAIN_TEMPLATE = `# 我的 leetcode 题解
 
 ![language-javascript](https://img.shields.io/badge/language-JavaScript-yellow)
-![leetcode-progress](https://img.shields.io/badge/leetcode-9%2F1650-brightgreen)
+![leetcode-progress](https://img.shields.io/badge/leetcode-{{resolvedItem}}%2F{{totalItem}}-brightgreen)
 
 ## 目录
 {{dir}}
 `;
+// leetcode 题目总数
+const TOTAL_ITEM = 1699;
+// leetcode 题目数量（已解决）
+let resolvedItem = 0;
 
 let DirNames = Object.keys(Dirs);
 
@@ -27,6 +31,8 @@ let dirTemplate = [];
 DirNames.forEach((dirName) => {
   let itemNames = Object.keys(Dirs[dirName]);
   let itemList = [];
+
+  resolvedItem += itemNames.length;
 
   itemList = itemNames.map((itemName) => {
     let itemNameCN = Dirs[dirName][itemName];
@@ -42,6 +48,8 @@ DirNames.forEach((dirName) => {
 });
 
 let template = render(MAIN_TEMPLATE, {
+  resolvedItem,
+  totalItem: TOTAL_ITEM,
   dir: dirTemplate.join(endOfLine),
 });
 
