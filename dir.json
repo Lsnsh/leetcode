@@ -5,7 +5,8 @@
     "3.longest-substring-without-repeating-characters": "3. 无重复字符的最长子串",
     "9.palindrome-number": "9. 回文数",
     "13.roman-to-integer": "13. 罗马数字转整数",
-    "26.remove-duplicates-from-sorted-array": "26. 删除排序数组中的重复项"
+    "26.remove-duplicates-from-sorted-array": "26. 删除排序数组中的重复项",
+    "27.remove-element": "27. 移除元素"
   },
   "701-800": {
     "771.jewels-and-stones": "771. 宝石与石头"

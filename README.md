@@ -1,7 +1,7 @@
 # 我的 leetcode 题解
 
 ![language-javascript](https://img.shields.io/badge/language-JavaScript-yellow)
-![leetcode-progress](https://img.shields.io/badge/leetcode-10%2F1699-brightgreen)
+![leetcode-progress](https://img.shields.io/badge/leetcode-11%2F1699-brightgreen)
 
 ## 目录
 
@@ -13,6 +13,7 @@
 - [9. 回文数](src/1-100/9.palindrome-number)
 - [13. 罗马数字转整数](src/1-100/13.roman-to-integer)
 - [26. 删除排序数组中的重复项](src/1-100/26.remove-duplicates-from-sorted-array)
+- [27. 移除元素](src/1-100/27.remove-element)
 
 ### 701-800
 
