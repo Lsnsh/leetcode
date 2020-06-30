@@ -1,7 +1,7 @@
 # 我的 leetcode 题解
 
 ![language-javascript](https://img.shields.io/badge/language-JavaScript-yellow)
-![leetcode-progress](https://img.shields.io/badge/leetcode-8%2F1699-brightgreen)
+![leetcode-progress](https://img.shields.io/badge/leetcode-9%2F1699-brightgreen)
 
 ## 目录
 
@@ -16,6 +16,10 @@
 ### 701-800
 
 - [771. 宝石与石头](src/701-800/771.jewels-and-stones)
+
+### 1401-1500
+
+- [1480. 一维数组的动态和](src/1401-1500/1480.running-sum-of-1d-array)
 
 ### 1501-1600
 
