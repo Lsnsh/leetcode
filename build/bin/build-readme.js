@@ -36,6 +36,7 @@ DirNames.forEach((dirName) => {
 
   itemList = itemNames.map((itemName) => {
     let itemNameCN = Dirs[dirName][itemName];
+    itemNameCN = itemNameCN.split('-')[0] || '未命名';
     return `- [${itemNameCN}](${MAIN_DIR}/${dirName}/${itemName})`;
   });
 

@@ -1,22 +1,22 @@
 {
   "1-100": {
-    "1.two-sum": "1. 两数之和",
-    "2.add-two-numbers": "2. 两数相加",
-    "3.longest-substring-without-repeating-characters": "3. 无重复字符的最长子串",
-    "9.palindrome-number": "9. 回文数",
-    "13.roman-to-integer": "13. 罗马数字转整数",
-    "26.remove-duplicates-from-sorted-array": "26. 删除排序数组中的重复项",
-    "27.remove-element": "27. 移除元素",
-    "35.search-insert-position": "35. 搜索插入位置"
+    "1.two-sum": "1. 两数之和-数组、哈希表",
+    "2.add-two-numbers": "2. 两数相加-链表、数学",
+    "3.longest-substring-without-repeating-characters": "3. 无重复字符的最长子串-哈希表、双指针、字符串、Sliding Window",
+    "9.palindrome-number": "9. 回文数-数学",
+    "13.roman-to-integer": "13. 罗马数字转整数-数学、字符串",
+    "26.remove-duplicates-from-sorted-array": "26. 删除排序数组中的重复项-数组、双指针",
+    "27.remove-element": "27. 移除元素-数组、双指针",
+    "35.search-insert-position": "35. 搜索插入位置-数组、二分查找"
   },
   "701-800": {
-    "771.jewels-and-stones": "771. 宝石与石头"
+    "771.jewels-and-stones": "771. 宝石与石头-哈希表"
   },
   "1401-1500": {
-    "1480.running-sum-of-1d-array": "1480. 一维数组的动态和"
+    "1480.running-sum-of-1d-array": "1480. 一维数组的动态和-数组"
   },
   "1501-1600": {
-    "1543.maximum-lcci": "1543. 最大数值"
+    "1543.maximum-lcci": "1543. 最大数值-位运算、数学"
   },
   "1601-1700": {
     "1642.shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof": "1642. 数组中数字出现的次数"
