@@ -6,7 +6,8 @@
     "9.palindrome-number": "9. 回文数",
     "13.roman-to-integer": "13. 罗马数字转整数",
     "26.remove-duplicates-from-sorted-array": "26. 删除排序数组中的重复项",
-    "27.remove-element": "27. 移除元素"
+    "27.remove-element": "27. 移除元素",
+    "35.search-insert-position": "35. 搜索插入位置"
   },
   "701-800": {
     "771.jewels-and-stones": "771. 宝石与石头"
