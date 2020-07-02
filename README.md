@@ -1,7 +1,7 @@
 # 我的 leetcode 题解
 
 ![language-javascript](https://img.shields.io/badge/language-JavaScript-yellow)
-![leetcode-progress](https://img.shields.io/badge/leetcode-12%2F1699-brightgreen)
+![leetcode-progress](https://img.shields.io/badge/leetcode-13%2F1700-brightgreen)
 
 ## 目录
 
@@ -15,6 +15,7 @@
 - [26. 删除排序数组中的重复项](src/1-100/26.remove-duplicates-from-sorted-array)
 - [27. 移除元素](src/1-100/27.remove-element)
 - [35. 搜索插入位置](src/1-100/35.search-insert-position)
+- [53. 最大子序和](src/1-100/53.maximum-subarray)
 
 ### 701-800
 

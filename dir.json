@@ -7,7 +7,8 @@
     "13.roman-to-integer": "13. 罗马数字转整数-数学、字符串",
     "26.remove-duplicates-from-sorted-array": "26. 删除排序数组中的重复项-数组、双指针",
     "27.remove-element": "27. 移除元素-数组、双指针",
-    "35.search-insert-position": "35. 搜索插入位置-数组、二分查找"
+    "35.search-insert-position": "35. 搜索插入位置-数组、二分查找",
+    "53.maximum-subarray": "53. 最大子序和-数组、分治算法、动态规划"
   },
   "701-800": {
     "771.jewels-and-stones": "771. 宝石与石头-哈希表"
