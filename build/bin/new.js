@@ -37,6 +37,8 @@ const Files = [
       `## ${problemNumber}. ${chineseName}\n`,
       `标签：${problemTagsMarkdown}\n`,
       '### 题解\n',
+      '### 解法一\n',
+      '运行耗时：xx ms 内存消耗：xx MB\n',
       '```javascript',
       '```'
     ]
