@@ -13,7 +13,8 @@
     "88.merge-sorted-array": "88. 合并两个有序数组-数组、双指针"
   },
   "101-200": {
-    "118.pascals-triangle": "118. 杨辉三角-数组"
+    "118.pascals-triangle": "118. 杨辉三角-数组",
+    "119.pascals-triangle-ii": "119. 杨辉三角II-数组"
   },
   "701-800": {
     "771.jewels-and-stones": "771. 宝石与石头-哈希表"

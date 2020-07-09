@@ -1,7 +1,7 @@
 # 我的 leetcode 题解
 
 ![language-javascript](https://img.shields.io/badge/language-JavaScript-yellow)
-![leetcode-progress](https://img.shields.io/badge/leetcode-15%2F1701-brightgreen)
+![leetcode-progress](https://img.shields.io/badge/leetcode-17%2F1705-brightgreen)
 
 ## 目录
 
@@ -18,6 +18,11 @@
 - [53. 最大子序和](src/1-100/53.maximum-subarray)
 - [66. 加一](src/1-100/66.plus-one)
 - [88. 合并两个有序数组](src/1-100/88.merge-sorted-array)
+
+### 101-200
+
+- [118. 杨辉三角](src/101-200/118.pascals-triangle)
+- [119. 杨辉三角II](src/101-200/119.pascals-triangle-ii)
 
 ### 701-800
 
