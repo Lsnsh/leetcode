@@ -1,7 +1,7 @@
 # 我的 leetcode 题解
 
 ![language-javascript](https://img.shields.io/badge/language-JavaScript-yellow)
-![leetcode-progress](https://img.shields.io/badge/leetcode-19%2F1705-brightgreen)
+![leetcode-progress](https://img.shields.io/badge/leetcode-20%2F1715-brightgreen)
 
 ## 目录
 
@@ -28,6 +28,7 @@
 
 ### 701-800
 
+- [707. 设计链表](src/701-800/707.design-linked-list)
 - [771. 宝石与石头](src/701-800/771.jewels-and-stones)
 
 ### 1401-1500
