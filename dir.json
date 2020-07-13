@@ -16,7 +16,8 @@
   },
   "101-200": {
     "118.pascals-triangle": "118. 杨辉三角-数组",
-    "119.pascals-triangle-ii": "119. 杨辉三角II-数组"
+    "119.pascals-triangle-ii": "119. 杨辉三角II-数组",
+    "141.linked-list-cycle": "141. 环形链表-链表、双指针"
   },
   "701-800": {
     "707.design-linked-list": "707. 设计链表-设计、链表",
