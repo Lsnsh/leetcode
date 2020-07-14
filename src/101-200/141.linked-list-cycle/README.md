@@ -104,18 +104,15 @@ var hasCycle = function (head) {
 var hasCycle = function (head) {
   var fast = head;
   var slow = head;
-  while (fast && slow) {
-    if (!fast.next) {
-      return false;
-    }
+  while (fast && fast.next) {
+    // 慢指针一次走一步
+    slow = slow.next;
     // 快指针一次走两步
     fast = fast.next.next;
     // 如果快指针位置对应节点与慢指针对应节点相等，表明快指针赶上慢指针，即是环形链表，返回 true
     if (fast === slow) {
       return true;
     }
-    // 慢指针一次走一步
-    slow = slow.next;
   }
   return false;
 };
