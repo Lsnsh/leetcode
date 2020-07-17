@@ -1,7 +1,7 @@
 # 我的 leetcode 题解
 
 ![language-javascript](https://img.shields.io/badge/language-JavaScript-yellow)
-![leetcode-progress](https://img.shields.io/badge/leetcode-22%2F1715-brightgreen)
+![leetcode-progress](https://img.shields.io/badge/leetcode-23%2F1716-brightgreen)
 
 ## 目录
 
@@ -27,6 +27,10 @@
 - [119. 杨辉三角II](src/101-200/119.pascals-triangle-ii)
 - [141. 环形链表](src/101-200/141.linked-list-cycle)
 - [142. 环形链表II](src/101-200/142.linked-list-cycle-ii)
+
+### 601-700
+
+- [622. 设计循环队列](src/601-700/622.design-circular-queue)
 
 ### 701-800
 

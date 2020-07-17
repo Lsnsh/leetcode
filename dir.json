@@ -20,6 +20,9 @@
     "141.linked-list-cycle": "141. 环形链表-链表、双指针",
     "142.linked-list-cycle-ii": "142. 环形链表II-链表、双指针"
   },
+  "601-700": {
+    "622.design-circular-queue": "622. 设计循环队列-设计、队列"
+  },
   "701-800": {
     "707.design-linked-list": "707. 设计链表-设计、链表",
     "771.jewels-and-stones": "771. 宝石与石头-哈希表"
