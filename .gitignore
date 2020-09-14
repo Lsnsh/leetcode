@@ -2,3 +2,6 @@ node_modules
 
 # MacOs
 .DS_Store
+
+# Other
+*.log
