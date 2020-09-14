@@ -20,7 +20,7 @@ const MAIN_TEMPLATE = `# 我的 leetcode 题解
 {{dir}}
 `;
 // leetcode 题目总数
-const TOTAL_ITEM = 1716;
+const TOTAL_ITEM = 1790;
 // leetcode 题目数量（已解决）
 let resolvedItem = 0;
 
