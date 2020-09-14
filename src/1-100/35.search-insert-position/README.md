@@ -5,24 +5,28 @@
 你可以假设数组中无重复元素。
 
 示例 1:
+
 ```
 输入: [1,3,5,6], 5
 输出: 2
 ```
 
-示例 2:
+示例  2:
+
 ```
 输入: [1,3,5,6], 2
 输出: 1
 ```
 
 示例 3:
+
 ```
 输入: [1,3,5,6], 7
 输出: 4
 ```
 
 示例 4:
+
 ```
 输入: [1,3,5,6], 0
 输出: 0
@@ -38,7 +42,7 @@
 
 ### 解法一
 
-运行耗时：64～72 ms	内存消耗：33 ~ 33.2 MB
+运行耗时: 64 ～ 72 ms 内存消耗: 33 ~ 33.2 MB
 
 ```javascript
 /**
@@ -69,18 +73,17 @@ var searchInsert = function (nums, target) {
   // 循环终止后，函数还未结束执行，表示 target 大于 nums[nums.length - 1]，直接返回 insertIndex 即可
   return insertIndex;
 };
-
 ```
 
 ---
 
 上面这个题解中的边界情况处理是写完之后，参考了[@apologize-7](https://leetcode-cn.com/u/apologize-7/) 发布的[题解](https://leetcode-cn.com/problems/search-insert-position/solution/cai-niao-jie-ti-bu-xi-wu-pen-by-apologize-7/)，做出了修改的
 
-另一种写法，我觉得也很有意思，基于 [@apologize-7](https://leetcode-cn.com/u/apologize-7/)  题解微调了一下：
+另一种写法，我觉得也很有意思，基于 [@apologize-7](https://leetcode-cn.com/u/apologize-7/) 题解微调了一下：
 
 ### 解法二
 
-运行耗时：76 ms	内存消耗：33.3 MB
+运行耗时: 76 ms 内存消耗: 33.3 MB
 
 ```javascript
 /**

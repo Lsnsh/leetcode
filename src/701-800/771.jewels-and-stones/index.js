@@ -1,3 +1,5 @@
+// 771. 宝石与石头
+// 哈希表
 /**
  * @param {string} J
  * @param {string} S

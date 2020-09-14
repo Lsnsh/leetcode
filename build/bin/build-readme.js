@@ -14,7 +14,7 @@ const DIR_TEMPLATE = `
 const MAIN_TEMPLATE = `# 我的 leetcode 题解
 
 ![language-javascript](https://img.shields.io/badge/language-JavaScript-yellow)
-![leetcode-progress](https://img.shields.io/badge/leetcode-{{resolvedItem}}%2F{{totalItem}}-brightgreen)
+![leetcode-progress({{resolvedItem}}/{{totalItem}})](https://img.shields.io/badge/leetcode-{{resolvedItem}}%2F{{totalItem}}-brightgreen)
 
 ## 目录
 {{dir}}

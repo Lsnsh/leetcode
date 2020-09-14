@@ -45,7 +45,7 @@ circularQueue.Rear();  // 返回 4
 
 #### 解法一
 
-运行耗时：140 ms 内存消耗：43.9 MB
+运行耗时: 140 ms 内存消耗: 43.9 MB
 
 ```javascript
 /**

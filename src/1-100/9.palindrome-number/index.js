@@ -1,3 +1,5 @@
+// 9. 回文数
+// 数学
 /**
  * @param {number} x
  * @return {boolean}

@@ -45,7 +45,7 @@
 
 使用 `Set / Map` 存储已遍历的链表节点，由于 `Set` 的值 和 `Map` 的键的唯一性，后续如果检测到相同的链表节点，则表明当前链表是环形链表
 
-运行耗时：88 ms 内存消耗：38.6 MB
+运行耗时: 88 ms 内存消耗: 38.6 MB
 
 ```javascript
 /**
@@ -86,7 +86,7 @@ var detectCycle = function (head) {
 - 将快指针从头开始出发，慢指针从首次相遇点出发，每次都走一步，再次遇见的节点，就是环形链表入环点
 - 具体如何推导出**再次相遇的节点**，就是**入环点**，可以看看这篇[题解](https://leetcode-cn.com/problems/linked-list-cycle-ii/solution/141ti-de-kuo-zhan-ru-guo-lian-biao-you-huan-ru-he-/)
 
-运行耗时：84 ms 内存消耗：38 MB
+运行耗时: 84 ms 内存消耗: 38 MB
 
 ```javascript
 /**

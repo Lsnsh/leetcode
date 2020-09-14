@@ -1,3 +1,5 @@
+// 1. 两数之和
+// 数组、哈希表
 /**
  * @param {number[]} nums
  * @param {number} target
