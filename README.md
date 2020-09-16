@@ -1,7 +1,7 @@
 # 我的 leetcode 题解
 
 ![language-javascript](https://img.shields.io/badge/language-JavaScript-yellow)
-![leetcode-progress](https://img.shields.io/badge/leetcode-24%2F1790-brightgreen)
+![leetcode-progress(25/1790)](https://img.shields.io/badge/leetcode-25%2F1790-brightgreen)
 
 ## 目录
 
@@ -18,6 +18,7 @@
 - [27. 移除元素](src/1-100/27.remove-element)
 - [35. 搜索插入位置](src/1-100/35.search-insert-position)
 - [53. 最大子序和](src/1-100/53.maximum-subarray)
+- [56. 合并区间](src/1-100/56.merge-intervals)
 - [66. 加一](src/1-100/66.plus-one)
 - [88. 合并两个有序数组](src/1-100/88.merge-sorted-array)
 

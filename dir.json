@@ -11,6 +11,7 @@
     "27.remove-element": "27. 移除元素-数组、双指针",
     "35.search-insert-position": "35. 搜索插入位置-数组、二分查找",
     "53.maximum-subarray": "53. 最大子序和-数组、分治算法、动态规划",
+    "56.merge-intervals": "56. 合并区间-排序、数组",
     "66.plus-one": "66. 加一-数组",
     "88.merge-sorted-array": "88. 合并两个有序数组-数组、双指针"
   },
