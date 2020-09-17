@@ -1,7 +1,7 @@
 # 我的 leetcode 题解
 
 ![language-javascript](https://img.shields.io/badge/language-JavaScript-yellow)
-![leetcode-progress(26/1790)](https://img.shields.io/badge/leetcode-26%2F1790-brightgreen)
+![leetcode-progress(27/1790)](https://img.shields.io/badge/leetcode-27%2F1790-brightgreen)
 
 ## 目录
 
@@ -51,3 +51,4 @@
 
 - [1642. 数组中数字出现的次数](src/1601-1700/1642.shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof)
 - [1688. 面试题01.07.旋转矩阵](src/1601-1700/1688.rotate-matrix-lcci)
+- [1689. 面试题01.08.零矩阵](src/1601-1700/1689.zero-matrix-lcci)
