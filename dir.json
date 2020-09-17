@@ -36,6 +36,7 @@
     "1543.maximum-lcci": "1543. 最大数值-位运算、数学"
   },
   "1601-1700": {
-    "1642.shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof": "1642. 数组中数字出现的次数"
+    "1642.shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof": "1642. 数组中数字出现的次数",
+    "1688.rotate-matrix-lcci": "1688. 面试题01.07.旋转矩阵-数组"
   }
 }
