@@ -22,7 +22,8 @@
     "119.pascals-triangle-ii": "119. 杨辉三角II-数组",
     "141.linked-list-cycle": "141. 环形链表-链表、双指针",
     "142.linked-list-cycle-ii": "142. 环形链表II-链表、双指针",
-    "144.binary-tree-preorder-traversal": "144. 二叉树的前序遍历-栈、树"
+    "144.binary-tree-preorder-traversal": "144. 二叉树的前序遍历-栈、树",
+    "145.binary-tree-postorder-traversal": "145. 二叉树的后序遍历-栈、树"
   },
   "601-700": {
     "622.design-circular-queue": "622. 设计循环队列-设计、队列"

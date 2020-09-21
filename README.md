@@ -1,7 +1,7 @@
 # 我的 leetcode 题解
 
 ![language-javascript](https://img.shields.io/badge/language-JavaScript-yellow)
-![leetcode-progress(30/1806)](https://img.shields.io/badge/leetcode-30%2F1806-brightgreen)
+![leetcode-progress(31/1806)](https://img.shields.io/badge/leetcode-31%2F1806-brightgreen)
 
 ## 目录
 
@@ -31,6 +31,7 @@
 - [141. 环形链表](src/101-200/141.linked-list-cycle)
 - [142. 环形链表II](src/101-200/142.linked-list-cycle-ii)
 - [144. 二叉树的前序遍历](src/101-200/144.binary-tree-preorder-traversal)
+- [145. 二叉树的后序遍历](src/101-200/145.binary-tree-postorder-traversal)
 
 ### 601-700
 
