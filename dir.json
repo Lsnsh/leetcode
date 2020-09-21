@@ -14,7 +14,8 @@
     "53.maximum-subarray": "53. 最大子序和-数组、分治算法、动态规划",
     "56.merge-intervals": "56. 合并区间-排序、数组",
     "66.plus-one": "66. 加一-数组",
-    "88.merge-sorted-array": "88. 合并两个有序数组-数组、双指针"
+    "88.merge-sorted-array": "88. 合并两个有序数组-数组、双指针",
+    "94.binary-tree-inorder-traversal": "94. 二叉树的中序遍历-栈、树、哈希表"
   },
   "101-200": {
     "118.pascals-triangle": "118. 杨辉三角-数组",

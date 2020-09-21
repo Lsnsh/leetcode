@@ -1,7 +1,7 @@
 # 我的 leetcode 题解
 
 ![language-javascript](https://img.shields.io/badge/language-JavaScript-yellow)
-![leetcode-progress(29/1806)](https://img.shields.io/badge/leetcode-29%2F1806-brightgreen)
+![leetcode-progress(30/1806)](https://img.shields.io/badge/leetcode-30%2F1806-brightgreen)
 
 ## 目录
 
@@ -22,6 +22,7 @@
 - [56. 合并区间](src/1-100/56.merge-intervals)
 - [66. 加一](src/1-100/66.plus-one)
 - [88. 合并两个有序数组](src/1-100/88.merge-sorted-array)
+- [94. 二叉树的中序遍历](src/1-100/94.binary-tree-inorder-traversal)
 
 ### 101-200
 
