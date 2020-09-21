@@ -6,6 +6,7 @@
     "9.palindrome-number": "9. 回文数-数学",
     "11.container-with-most-water": "11. 盛最多水的容器-数组、双指针",
     "13.roman-to-integer": "13. 罗马数字转整数-数学、字符串",
+    "14.longest-common-prefix": "14. 最长公共前缀-字符串",
     "15.3sum": "15. 三数之和-数组、双指针",
     "26.remove-duplicates-from-sorted-array": "26. 删除排序数组中的重复项-数组、双指针",
     "27.remove-element": "27. 移除元素-数组、双指针",
